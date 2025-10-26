@@ -2,11 +2,10 @@
 
 ## Personal Work
 
-Below is a selection of personal exercises and short stories. PDFs available for download.
+WIP
 
 ## Academic Work
 
-Creative writing done in the context of class. PDF available for download.
 
 ### Porfolio of Short Stories
 *Final Asessment for Creative Writing, University of Freiburg im Breisgau*, 2020
