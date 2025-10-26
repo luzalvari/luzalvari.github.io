@@ -4,9 +4,11 @@ title: Creative Writing
 
 # Personal Work
 
+Below is a selection of my personal exercises and short stories. PDFs available for download.
+
 # Academic Work
 
-Below is a selection of my unpublished academic work. PDFs available for download.
+Creative writing done in the context of class. PDF available for download.
 
 ## Porfolio of Short Stories
 *Final Asessment for Creative Writing, University of Freiburg im Breisgau*, 2020
