@@ -36,8 +36,7 @@ This study investigates how speakers interpret figurative noun–noun compounds 
 
 - [Download PDF](./papers/sandwiches.pdf)
 
-## A Chinese Virus? Uncovering The Linguistic and Political Implications of
-Naming a Disease Through a Corpus-Study of Covid-19
+## A Chinese Virus? Uncovering The Linguistic and Political Implications of Naming a Disease Through a Corpus-Study of Covid-19
 *Term Paper for Distant Reading, University of Freiburg im Breisgau*, 2020
 
 This paper examines how the naming of Covid-19 reflects broader linguistic and sociopolitical dynamics. Through a corpus-based analysis of terms such as Covid-19, Wuhan virus, and Kung-Flu, it traces how scientific, geographical, and politicized names emerged and competed in public discourse. Drawing on frameworks from onomastics and socio-onomastics, the study explores whether these labels function as proper names and how they shape public perception. The findings reveal that while official naming conventions aim for neutrality, popular and media usage often reintroduce stigma. The paper studies how naming is never a neutral act but a linguistic process that may reflect biases.
