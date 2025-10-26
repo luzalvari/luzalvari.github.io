@@ -17,18 +17,16 @@ Hello! I'm Luz, a nerdy linguist, student of AI Ethics and Data Policy and amate
 - English
 - German
 
-## Skills / Interests
-- Public Speaking and Workshop Facilitation
-- Cross-Cultural Communication
-- Qualitative/Quantitative Linguistic Analysis
-- Corpus Linguistics
-- Basic Data Analysis (R, Python, SPSS...)
-- Academic and Technical Writing
-- Research Coordination
+## Skills 
+- Public speaking
+- Workshop coordination
+- Multilingual and crosscultural communication
+- Qual/Quant research
+- Corpus-based research
+- Basic data analysis and visualization (R, Python, SPSS...)
+- Academic writing and translation
+- Research coordination and higher education teaching
 - Translation and localisation  
-- Research design and analysis  
-- Linguistics, accessibility, AI and language
-- Data Ethics and Policy
 
 ## CV 
 [CV (PDF)](./CV.pdf)
