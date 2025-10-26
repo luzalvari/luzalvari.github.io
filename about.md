@@ -17,5 +17,18 @@ I'm a linguist, student of AI Ethics and Data Policy and amateur writer! I'm cur
 - English
 - German
 
+## Skills / Interests
+- Public Speaking and Workshop Facilitation
+- Cross-Cultural Communication
+- Qualitative/Quantitative Linguistic Analysis
+- Corpus Linguistics
+- Basic Data Analysis (R, Python, SPSS...)
+- Academic and Technical Writing
+- Research Coordination
+- Translation and localisation  
+- Research design and analysis  
+- Linguistics, accessibility, AI and language
+- Data Ethics and Policy
+
 ## CV 
 [CV (PDF)](./CV.pdf)
