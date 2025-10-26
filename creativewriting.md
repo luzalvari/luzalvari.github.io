@@ -1,7 +1,5 @@
 # Creative Writing
 
-This is an ongoing selection of Luz Alvariño's creative writing.
-
 ## Personal Work
 
 Below is a selection of personal exercises and short stories. PDFs available for download.
