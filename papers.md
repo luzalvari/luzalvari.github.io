@@ -50,7 +50,7 @@ This paper examines how the naming of Covid-19 reflects broader linguistic and s
 
 This dissertation examines the role of metaphor as a fundamental tool of thought rather than a mere stylistic feature of language. Building on George Lakoff and Mark Johnson’s Metaphors We Live By (1980), which redefined metaphor as a central mechanism of human cognition, the study explores how conceptual metaphors shape not only our linguistic expressions but also our perception of reality. The research first outlines the theoretical foundations of Conceptual Metaphor Theory through the works of Lakoff, Johnson, Kövecses, Knowles, and Moon, among others. It then applies corpus-based methods to analyze the use of conceptual metaphors in the socio-political discourse of contemporary conservative politicians. The findings aim to demonstrate how metaphorical framing in political language reflects and reinforces underlying ideological worldviews, revealing the profound cognitive and social impact of metaphor in shaping political thought and communication.
 
-- [Read on university website] (https://minerva.usc.gal/entities/publication/6b7013e0-7c87-4e50-ae65-b20c9e3a85ba)
+- [Read on university website](https://minerva.usc.gal/entities/publication/6b7013e0-7c87-4e50-ae65-b20c9e3a85ba)
 
 - [Download PDF](./papers/metaphors.pdf)
 
