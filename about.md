@@ -5,7 +5,7 @@ title: About
 
 # About
 
-Hello! I'm Luz, a nerdy linguist, student of AI Ethics and Data Policy and amateur writer, currently available for part-time temporary roles (not freelance), and of course for interesting research proposals and collaboration opportunities. I adore interdisciplinary work! Feel free to contact me at the details provided below.
+Hello! I'm Luz, linguist, student of AI Ethics and Data Policy and amateur writer, currently available for part-time temporary roles (not freelance), and of course for interesting research proposals and collaboration opportunities. I adore interdisciplinary work! Feel free to contact me at the details provided below.
 
 ## Contact
 - Email: luzalvai@gmail.com
