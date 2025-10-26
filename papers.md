@@ -4,7 +4,14 @@ title: Research Papers
 
 # Research Papers
 
-Below is a selection of my academic work. PDFs available for download.
+Below is a selection of my unpublished academic work. PDFs available for download.
+
+## Evidence of Language Decline in Terry Pratchett’s Writing: Effects of Posterior Cortical Atrophy on the Lexicon
+*Term Paper for Language Processing Across the Lifespan, University of Freiburg im Breisgau*, 2021
+
+This paper investigates how Terry Pratchett’s rare form of Alzheimer’s disease—Posterior Cortical Atrophy (PCA)—may have influenced his writing. Using corpus linguistic methods, the study compares two collections of his novels: one written before his 2007 diagnosis and one after. Three linguistic aspects were analyzed: vocabulary size, lexical repetition, and vagueness. Contrary to expectations and to findings from similar studies on other authors with dementia, Pratchett’s later works did not show a clear lexical decline. Instead, his type–token ratio and lexical diversity appeared to stabilize or even increase after diagnosis, while repetition and vague expressions decreased slightly. These results suggest that, rather than reflecting cognitive deterioration, Pratchett’s later language use may demonstrate a conscious effort to maintain stylistic richness and precision despite his illness. The study contributes to research on language and neurodegeneration by highlighting the complex relationship between creativity, self-awareness, and linguistic change in dementia.
+
+
 
 ## Metaphors We Politicize By
 *Bachelor Thesis, University of Santiago de Compostela*, 2019
@@ -30,4 +37,6 @@ cognitive significance of the metaphor through the examination of the language u
 conservative politicians. 
 
 - [Download PDF](./papers/metaphors.pdf)
+
+
 
