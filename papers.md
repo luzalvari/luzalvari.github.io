@@ -8,6 +8,7 @@ Below is a selection of my academic work. PDFs available for download.
 
 ## Metaphors We Politicize By
 *Bachelor Thesis, University of Santiago de Compostela*, 2019
+
 The Metaphor has been traditionally understood in the Western philosophical tradition as a rhetorical device
 used in ornamentallanguage, mainly in literary contexts. In 1980 a new and revolutionary theory was put
 forward by George Lakoff and Mark Johnson. In their work Metaphors We Uve By, the authors layout an
@@ -27,5 +28,6 @@ methodology to elaborate a practica! study of the conceptual metaphor theory app
 socio-political speech of one or more conservative politicians. My goal will ultimately be to evidence the
 cognitive significance of the metaphor through the examination of the language used by modern-day
 conservative politicians. 
+
 - [Download PDF](./papers/metaphors.pdf)
 
