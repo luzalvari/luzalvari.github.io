@@ -2,7 +2,7 @@
 
 ## Personal Work
 
-- [Substack](https://sealskin.substack.com/)
+### [Substack](https://sealskin.substack.com/)
 
 ## Academic Work
 
