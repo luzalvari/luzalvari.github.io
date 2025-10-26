@@ -21,7 +21,7 @@ Hello! I'm Luz, a nerdy linguist, student of AI Ethics and Data Policy and amate
 - Public speaking
 - Workshop coordination
 - Multilingual and crosscultural communication
-- Qual/Quant research
+- Qual/Quant and hybrid research
 - Corpus-based research
 - Basic data analysis and visualization (R, Python, SPSS...)
 - Academic writing and translation
