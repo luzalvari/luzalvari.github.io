@@ -1,0 +1,36 @@
+---
+---
+@import "minima";
+
+/* Change body font */
+body {
+  font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.6;
+}
+
+/* Accent color */
+a,
+.site-title,
+.site-nav .page-link:hover {
+  color: #6b4eff; /* pick your accent */
+}
+
+/* Buttons / links look more buttony */
+a[href^="http"], a.button-link {
+  display: inline-block;
+  border: 2px solid #6b4eff;
+  padding: .5rem .9rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+/* Card style for sections */
+.project-card {
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(0,0,0,.05);
+}
