@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  {%- unless page.show_title == false -%}
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+
+      {%- if page.author or page.date -%}
+        <p class="post-meta">
+          {%- if page.author -%}{{ page.author }}{%- endif -%}
+          {%- if page.date -%}
+            • <time datetime="{{ page.date | date_to_xmlschema }}">
+              {{ page.date | date: "%b %-d, %Y" }}
+            </time>
+          {%- endif -%}
+        </p>
+      {%- endif -%}
+    </header>
+  {%- endunless -%}
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
