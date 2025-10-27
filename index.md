@@ -1,7 +1,5 @@
 ---
 layout: home
-title: "Home"
-show_title: false
 ---
 
 <section style="text-align:center; padding: 3rem 1rem 2rem;">
