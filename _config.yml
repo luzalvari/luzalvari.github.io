@@ -1,12 +1,54 @@
-title: "Luz's Portfolio
-author: Luz Alvariño Gabeiras
-description: "Research, translation, and writing"
+# ====================================
+# Site settings
+# ====================================
+
+title: "Luz Alvariño Gabeiras: Portfolio"
+email: luzalvari@gmail.com
+description: "Linguist, researcher and amateur writer.
+
+# The theme (Minima)
 theme: minima
+
+# Optional: use Minima’s built-in dark/light skin variants (some GitHub Pages versions support this)
 minima:
-  skin: classic
-sass:
-  style: compressed
+  skin: classic  # can be classic, dark, solarized, etc.
+  
+# ====================================
+# Header (Navigation Links)
+# ====================================
+
+# These are the pages you want in your top navigation bar
+header_pages:
+  - index.md        # Home
+  - about.md        # About
+  - papers.md      # Research Papers
+
+# ====================================
+# Social Links (Footer)
+# ====================================
+
+# Minima automatically adds icons for these if you include them
 github_username: luzalvari
 linkedin_username: alvarinoluz
 substack_username: luzalvari
- 
+
+# ====================================
+# Build settings
+# ====================================
+
+# Don't change
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Tell Jekyll to compress your custom Sass (CSS)
+sass:
+  style: compressed
+
+# Exclude unnecessary stuff from being published
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - README.md
