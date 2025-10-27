@@ -5,8 +5,6 @@ show_title: false
 ---
 
 <section style="text-align:center; padding: 3rem 1rem 2rem;">
-  <img src="/assets/icon.png" alt="Luz Alvariño Gabeiras" style="width:110px; height:110px; object-fit:cover; border-radius:50%; margin-bottom:1rem;">
-
   <h1 style="font-size:2rem; margin:0 0 .5rem; font-weight:600;">
     Luz Alvariño Gabeiras: Portfolio
   </h1>
