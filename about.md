@@ -9,8 +9,9 @@ Hello! I'm Luz, linguist, student of AI Ethics and Data Policy and amateur write
 
 ## Contact
 - Email: luzalvai@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/alvarinoluz)
 - Location: London, UK
+- [LinkedIn](https://www.linkedin.com/in/alvarinoluz)
+- [Substack](https://sealskin.substack.com/)
 
 ## Languages
 - Spanish
@@ -29,4 +30,3 @@ Hello! I'm Luz, linguist, student of AI Ethics and Data Policy and amateur write
 - Translation and localisation  
 
 ## [CV](./CV.pdf)
-## [Substack](https://sealskin.substack.com/)
