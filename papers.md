@@ -1,4 +1,7 @@
-# Research Papers 
+---
+layout: default
+title: Research Papers
+---
 
 Below is a selection of Luz's unpublished academic work. PDFs available for download.
 
