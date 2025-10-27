@@ -1,14 +1,33 @@
 ---
-layout: default
-title: Home
+layout: home
+title: "Luz's Portfolio"
+show_title: false
 ---
 
+<section style="text-align:center; padding: 3rem 1rem 2rem;">
+  <img src="/assets/icon.png" alt="Luz Alvariño Gabeiras" style="width:110px; height:110px; object-fit:cover; border-radius:50%; margin-bottom:1rem;">
 
-# Welcome! 
+  <h1 style="font-size:2rem; margin:0 0 .5rem; font-weight:600;">
+    Luz Alvariño Gabeiras: Portfolio
+  </h1>
 
-Luz is a linguist, researcher, editor and translator working across different disciplines. Currently most interested in inclusive design, data policy, AI ethics and LLM evaluation. Here, you'll find a collection of all of her academic work alongside personal projects and other miscellaneous stuff. Enjoy your stay!
+  <p style="font-size:1.05rem; max-width:600px; margin:0 auto 1.5rem; line-height:1.5;">
+    Linguist, researcher and amateur writer.
+  </p>
 
-## [About Me](./about.html)
-## [Research Papers](./papers.html)
+  <p style="margin:0; display:flex; flex-wrap:wrap; gap:.5rem; justify-content:center;">
+    <a href="/papers/" style="border:2px solid currentColor; border-radius:8px; padding:.6rem 1rem; text-decoration:none; font-weight:600;">
+      Research & Papers
+    </a>
+    <a href="/about/" style="border:2px solid currentColor; border-radius:8px; padding:.6rem 1rem; text-decoration:none; font-weight:600;">
+      About Me
+    </a>
+    <a href="https://github.com/luzalvari" style="border:2px solid currentColor; border-radius:8px; padding:.6rem 1rem; text-decoration:none; font-weight:600;">
+      GitHub
+    </a>
+  </p>
+</section>
 
-More to come!
+<hr style="max-width:200px; margin:3rem auto 2rem; border:0; border-top:1px solid #ddd;">
+
+<!-- below this, Minima's 'home' layout will list posts if you have them -->
