@@ -28,5 +28,5 @@ Hello! I'm Luz, linguist, student of AI Ethics and Data Policy and amateur write
 - Research coordination and higher education teaching
 - Translation and localisation  
 
-## CV 
-[CV (PDF)](./CV.pdf)
+## [CV](./CV.pdf)
+## [Substack](https://sealskin.substack.com/)
