@@ -19,7 +19,7 @@ Hello! I'm Luz, linguist, student of AI Ethics and Data Policy and amateur write
 
 ## Skills 
 - Public speaking
-- Workshop coordination
+- Workshop facilitating
 - Multilingual and crosscultural communication
 - Qual/Quant and hybrid research
 - Corpus-based research
