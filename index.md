@@ -8,7 +8,7 @@ layout: home
   </h1>
 
   <p style="font-size:1.05rem; max-width:600px; margin:0 auto 1.5rem; line-height:1.5;">
-    Linguist, researcher and amateur writer.
+    Linguist, researcher and writer, currently studying Data Policy
   </p>
 
   <p style="margin:0; display:flex; flex-wrap:wrap; gap:.5rem; justify-content:center;">
