@@ -9,7 +9,7 @@ Hello! I'm Luz, linguist, student of AI Ethics and Data Policy and amateur write
 
 ## Contact
 - Email: luzalvai@gmail.com
-- [LinkedIn)](https://www.linkedin.com/in/alvarinoluz)
+- [LinkedIn](https://www.linkedin.com/in/alvarinoluz)
 - Location: London, UK
 
 ## Languages
