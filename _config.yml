@@ -1,11 +1,9 @@
-title: "Luz Alvariño Gabeiras: Portfolio"
+title: "Luz Alvariño Gabeiras"
 email: luzalvari@gmail.com
-description: "Linguist, researcher and amateur writer.
-
+description: "Portfolio of personal projects, research work and amateur writing"
 
 theme: minima
 
-# Optional: use Minima’s built-in dark/light skin variants (some GitHub Pages versions support this)
 minima:
   skin: classic  # can be classic, dark, solarized, etc.
   
@@ -14,10 +12,6 @@ header_pages:
   - index.md        # Home
   - about.md        # About
   - papers.md      # Research Papers
-
-github_username: luzalvari
-linkedin_username: alvarinoluz
-substack_username: luzalvari
 
 markdown: kramdown
 highlighter: rouge
