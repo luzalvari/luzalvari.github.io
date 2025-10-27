@@ -2,4 +2,8 @@ title: "Luz's Portfolio
 author: Luz Alvariño Gabeiras
 description: "Research, translation, and writing"
 theme: minima
+minima:
+  skin: classic
+sass:
+  style: compressed
 
