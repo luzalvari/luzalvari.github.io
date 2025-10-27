@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Luz's Portfolio"
+title: "Home"
 show_title: false
 ---
 
