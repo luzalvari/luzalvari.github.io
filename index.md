@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![My profile picture](/assets/image.png)
+<img src="/assets/image.png" alt="Profile" width="200">
 
 <section style="text-align:center; padding: 3rem 1rem 2rem;">
   <h1 style="font-size:2rem; margin:0 0 .5rem; font-weight:600;">
