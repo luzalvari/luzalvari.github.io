@@ -2,6 +2,8 @@
 layout: home
 ---
 
+![My profile picture](/assets/image.png)
+
 <section style="text-align:center; padding: 3rem 1rem 2rem;">
   <h1 style="font-size:2rem; margin:0 0 .5rem; font-weight:600;">
     Luz Alvariño Gabeiras
