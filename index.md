@@ -2,10 +2,11 @@
 layout: home
 ---
 
+<link rel="icon" type="image/x-icon" href="/assets/image.png">
+
 <section style="text-align:center; padding: 3rem 1rem 2rem;">
   <h1 style="font-size:2rem; margin:0 0 .5rem; font-weight:600;">
     Luz Alvariño Gabeiras
-<link rel="icon" type="image/x-icon" href="/assets/image.png">
   </h1>
 
   <p style="font-size:1.05rem; max-width:600px; margin:0 auto 1.5rem; line-height:1.5;">
